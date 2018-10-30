@@ -1,0 +1,11 @@
+{  
+    "invocation":"nerd jokes",
+    "intents":[  
+        {  
+            "name":"jokeIntent",
+            "phrases":[  
+                "tell me a joke"
+            ]
+        }
+    ]
+}
